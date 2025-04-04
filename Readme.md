@@ -16,7 +16,7 @@ This is a simple split landing page showcasing **PlayStation 5** and **Xbox Seri
 ## Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SauravAgarwal6/-Split-landing-page.git
+   git clone https://github.com/SauravAgarwal6/-Split-Landing-Page.git
 
 # Folder Structure
 /split-landing-page
